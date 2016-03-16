@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/maventestproject.iml" filepath="$PROJECT_DIR$/maventestproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maventemplatepersonal.iml" filepath="$PROJECT_DIR$/maventemplatepersonal.iml" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package org.sve.maventestproject;
+package org.sve.maventemplatepersonal;
 
 /**
  * Hello world!

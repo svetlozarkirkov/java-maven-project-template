@@ -1,3 +1,3 @@
-Maven Test Project
+Maven Project - Personal template
 
-[![Build Status](https://travis-ci.org/svetlozarkirkov/maventestproject.svg?branch=master)](https://travis-ci.org/svetlozarkirkov/maventestproject)
+[![Build Status](https://travis-ci.org/svetlozarkirkov/maven-project-template-personal.svg?branch=master)](https://travis-ci.org/svetlozarkirkov/maven-project-template-personal)

@@ -1,4 +1,4 @@
-package org.sve.maventestproject;
+package org.sve.maventemplatepersonal;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
