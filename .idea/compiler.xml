@@ -23,14 +23,10 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="java-template" />
-        <module name="maventemplatepersonal" />
-        <module name="maventestproject" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java-template" target="1.5" />
-      <module name="maventemplatepersonal" target="1.5" />
-      <module name="maventestproject" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
