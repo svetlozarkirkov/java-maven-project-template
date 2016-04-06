@@ -10,6 +10,6 @@
 |[JUnit](https://github.com/junit-team/junit4)|4.12|Unit testing|
 |[Mockito](https://github.com/mockito/mockito)|1.10.19|Mocking|
 |[PowerMock](https://github.com/jayway/powermock)|1.6.4|Mocking|
-|[Slf4j](http://www.slf4j.org)|1.7.20|Logging|
+|[Slf4j](http://www.slf4j.org)|1.7.21|Logging|
 |[Guava](https://github.com/google/guava)|19.0|Tools|
 |[Project Lombok](https://github.com/rzwitserloot/lombok)|1.16.8|Tools|
