@@ -12,4 +12,3 @@
 |[PowerMock](https://github.com/jayway/powermock)|Mocking|
 |[Slf4j](http://www.slf4j.org)|Logging|
 |[Guava](https://github.com/google/guava)|Tools|
-|[Project Lombok](https://github.com/rzwitserloot/lombok)|Tools|
